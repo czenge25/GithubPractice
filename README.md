@@ -6,3 +6,4 @@
 4. No, git is designed to preserve commits
 5. The command is a merge by default
 6. Yes, the local main branch is also updated and in line with the remote main
+7. No, the local copy was not deleted
